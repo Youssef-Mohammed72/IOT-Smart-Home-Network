@@ -1,0 +1,3 @@
+# IOT-Smart-Home-Network
+The primary goal of this experiment is to design, simulate, and evaluate a  smart home network using Internet of Things (IoT) technology. The smart home  network is composed of various devices located in different rooms of a house, all  connected via a Home Gateway. These devices include an RFID card, RFID  reader, door lock, window, lamp, etc...
+[Your Links Here...](https://drive.google.com/drive/folders/1Qca26e9Vc2cuXWCpGDmDqdE4OufJpGs2?usp=sharing)
